@@ -19,9 +19,9 @@ colors.forEach(function (color) {
     $('.box:last-child').css('background', color);
 });
 
- for (let index = 0; index < 100; index++) {
-     console.log(index);    
- };
+//  for (let index = 0; index < 100; index++) {
+//      console.log(index);    
+//  };
 
 
 function myLittleFunction() {
