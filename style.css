@@ -5,3 +5,8 @@ p {
 .blue {
     background: blue;
 }
+
+.box {
+    width: 30px;
+    height: 30px;
+}
